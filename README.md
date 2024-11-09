@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhinay Malepati</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
+<img src="https://drive.google.com/file/d/1vyViDzJmYbzNK6XsX8sfgayx9ApiMYmH/view?usp=drive_link" width="300px" align="right" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbhinaiy&label=Profile%20views&color=0e75b6&style=flat" alt="abbhinaiy" /> </p>
 
