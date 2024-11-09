@@ -1,3 +1,5 @@
+![logo](https://github.com/Abbhinaiy/Abbhinaiy/blob/main/modern.jpg)
+
 <h1 align="center">Hi 👋, I'm Abhinay Malepati</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
